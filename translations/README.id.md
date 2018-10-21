@@ -51,4 +51,4 @@ Hak Cipta (c) 2018 freeCodeCamp.
 
 Konten dari repository ini terikat dengan lisensi berikut:
 - Lisensi perangkat lunak komputer di bawah [BSD-3-Clause](./LICENSE.md).
-- Referensi konten ini [`/src/pages`](/src/pages) dan sub direktori di bawah lisensi [CC-BY-SA-4.0](./src/pages/LICENSE.md).
+- Referensi konten ini [`/src/pages`](/src/pages) dan sub direktori di bawah lisensi [CC-BY-SA-4.0](./src/pages/LICENSE.md)...
